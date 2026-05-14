@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.bak
+*.tmp
+
+# Node.js
+node_modules/
+dist/
+.DS_Store
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+sample_data/
+uploads/
+backend/static/*.png
+backend/static/*.jpg
+backend/static/*.tif
+simulator/synthetic_field.tif
+
+# Backend local environment and outputs
+backend/venv/
+backend/__pycache__/
+backend/backend.log
+backend/results/
+backend/uploads/
+backend/sample_data/
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+backend/*.db-journal
+
+# Frontend local files
+frontend/frontend.log
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/

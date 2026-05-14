@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python-headless
+scikit-learn
+scikit-image
+rasterio
+motor
+pydantic
+python-dotenv
+matplotlib
+pillow
